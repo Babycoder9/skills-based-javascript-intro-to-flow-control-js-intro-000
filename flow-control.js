@@ -1,7 +1,18 @@
 function basicTeenager(age) {
+<<<<<<< HEAD
   if (age >12 && age < 20){
     return "You are a teenager!";
+=======
+  if (age>=13 && age<=19){
+    return "You are a teenager!"
+<<<<<<< HEAD
+>>>>>>> 2e4a64eb51bae6c2e7a5c3ab734335565d247484
   } 
+=======
+  } else {
+    return "You are not a teenager"
+  }
+>>>>>>> a7035312d088766b1b6f84464b1159a2312ce60b
 }
 
 function teenager(age) {
